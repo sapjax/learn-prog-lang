@@ -1,0 +1,7 @@
+.DS_Store
+.dat
+*.dat
+.vscode
+**/download
+*.pdf
+test.sml
