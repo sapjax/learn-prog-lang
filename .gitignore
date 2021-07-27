@@ -5,3 +5,5 @@
 **/download
 *.pdf
 test.sml
+test.rkt
+*.rkt~
