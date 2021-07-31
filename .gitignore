@@ -7,3 +7,5 @@
 test.sml
 test.rkt
 *.rkt~
+*.zo
+*.dep
